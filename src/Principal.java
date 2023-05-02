@@ -1,9 +1,11 @@
+import java.util.ArrayList;
 
 public class Principal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Probando Git desde eclipse");
+		ArrayList<String> nombres = new ArrayList<>();
+		nombres.add("Victor");
 	}
 
 }
